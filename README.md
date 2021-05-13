@@ -1,5 +1,3 @@
-Get to know me,
-
 - 👋 Hi, I’m Verkyav K. Peter,
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently playing with decentralize solutions
