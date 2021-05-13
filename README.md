@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Verkyav K. Peter,
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently playing with decentralize solutions
-- 💞️ I’m looking to collaborate on good DeFi solution
+- 💞️ I’m looking to collaborate on any good DeFi solution
 - 📫 How to reach me; on twitter: @AMTC_Peter, @cleancodelovver
 
 <!---
